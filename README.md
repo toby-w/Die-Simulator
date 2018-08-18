@@ -1,3 +1,3 @@
-# Die-Simulator
+# die-simulator
 
-A small project for fun.
+A small die simulator for fun.
